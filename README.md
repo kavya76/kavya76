@@ -11,7 +11,8 @@
 <br />
 
 Hi, I'm [kavya Khatter](https://kavya76.github.io/Portfolio/), an aspiring Software Engineer 🚀 from India, currently, I'm pursuing my bachelors from PES Universiy majoring in Computer Science  🙍🏽‍♂️ , Former Machine learning intern [Microsoft], Project Intern [Hewlett Packard Enterprise], Artificial Inteligence Intern [Manthan anlytics], ACMS Mentee [Amazon]
-Beside's programming, I enjoy cooking and traveling.
+
+*Beside's programming, I enjoy cooking and traveling.*
 
   <img align="right" alt="GIF" src="https://github.com/kavya76/kavya76/blob/main/code.gif?raw=true" width="500" height="320" />
   
